@@ -9,7 +9,6 @@ You can choose the color (yellow, green, red, purple, gray, random), to notify t
 You can send messages to HipChat rooms as text, html, or cards.
 - The HTML will be curated by HipChat.
 - Allowed HTML tags: a, b, i, strong, em, br, img, pre, code, lists, tables.
-- Card	Your add-on sends JSON data to HipChat, which is rendered client side by the HipChat App, e.g.
 
 ``` python
 from api.notify import Notify

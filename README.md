@@ -1,5 +1,5 @@
 # Hippy
-A Python Wrapper For Hipchat Api v2
+A Python Wrapper For Hipchat Apiv2
 
 ## Sending Notifications
 
